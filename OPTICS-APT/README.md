@@ -1,6 +1,6 @@
 ## What is this OPTICS-APT?
 
-This package perform a cluster analysis procedure [1][1] develped based on the OPTICS algorithm [2][2] for Atom Probe Tomography [3][3] Data.
+This package perform a cluster analysis procedure [1] develped based on the OPTICS algorithm [2] for Atom Probe Tomography [3] Data.
 
 [1]: Jing Wang, Daniel K. Schreiber, Nathan Bailey, Peter Hosemann, Mychailo B. Toloczko, The Application of the OPTICS Algorithm to Cluster Analysis in Atom Probe Tomography Data, Microscopy and Microanalysis, 25(2), 338-348, 2019  
 [2]: Mihael Ankerst, Markus M. Breunig, Hans-Peter Kriegel, Jorg Sander, OPTICS: Ordering Points To Identify the Clustering Structure, Proceedings of ACM SIGMOD'99 Int. Conf. on Management of Data, Philadelphia PA, 1999  
