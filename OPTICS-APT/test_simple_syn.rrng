@@ -1,0 +1,16 @@
+[Ions]
+Number=6
+Ion1=Cluster1
+Ion2=Cluster2
+Ion3=Cluster3
+Ion4=Cluster4
+Ion5=Cluster5
+Ion6=Cluster6
+[Ranges]
+Number=6
+Range1=0.9 1.1 Vol:0.0 Name:Cluster1 Color:350f5d
+Range2=1.9 2.1 Vol:0.0 Name:Cluster2 Color:f4586d
+Range3=2.9 3.1 Vol:0.0 Name:Cluster3 Color:f6881d
+Range4=3.9 4.1 Vol:0.0 Name:Cluster4 Color:7e8614
+Range5=4.9 5.1 Vol:0.0 Name:Cluster5 Color:b23b98
+Range6=5.9 6.1 Vol:0.0 Name:Cluster6 Color:ab9414
