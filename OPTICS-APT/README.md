@@ -57,10 +57,10 @@ Dependent packages:
 ## Instruction for output:
 
 Several files will be given as output after clustering:
-•	*_ol_RD_CD.txt: a file contains the ordered list, reachability distance, and core distance from the OPTICS algorithm.
-•	*_cluster_stats.txt: statistics of clusters, their index, center of mass, radius of gyration, equivalent spherical radius, contained ions. 
-•	*_clusters.pos or .txt: pos file for visualization clusters in IVAS. Replaced the m/z with cluster_id. Cluster_id is move up since IVAS does not allow -1 in range file, which represent noise in this algorithm.
-•	*_clusters.rrng: range file for the corresponding pos to IVAS.
-•	*_log.txt: saved parameters used in the analysis.
-•	*.cl: dumped snapshot of clustering class binary object. Can be used for debug purpose. Normally turned off and not output.
+*	\*_ol_RD_CD.txt: a file contains the ordered list, reachability distance, and core distance from the OPTICS algorithm.  
+*	\*_cluster_stats.txt: statistics of clusters, their index, center of mass, radius of gyration, equivalent spherical radius, contained ions.  
+*	\*_clusters.pos or .txt: pos file for visualization clusters in IVAS. Replaced the m/z with cluster_id. Cluster_id is move up since IVAS does not allow -1 in range file, which represent noise in this algorithm.  
+*	\*_clusters.rrng: range file for the corresponding pos to IVAS.  
+*	\*_log.txt: saved parameters used in the analysis.  
+*	\*.cl: dumped snapshot of clustering class binary object. Can be used for debug purpose. Normally turned off and not output.  
 
